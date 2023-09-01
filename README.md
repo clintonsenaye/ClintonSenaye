@@ -1,6 +1,6 @@
 <h1>Hi, I'm Clinton!</h1>
 
-<h3>I am a self thaught security analyst breaking into the cybersecurity industry.</h3>
+<h3>I am a self taught security analyst breaking into the cybersecurity industry.</h3>
 
 <h2>Professional Statement: </h2>
 

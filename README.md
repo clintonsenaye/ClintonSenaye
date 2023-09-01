@@ -177,7 +177,8 @@ The provided code showcases the implementation of a SQL query designed to filter
 
 ![image](https://github.com/clintonsenaye/ClintonSenaye/assets/57267374/9772dd69-9ae4-402a-9be6-3ae5626c1ea3)
 
-The initial section of the screenshot displays the query I have executed, while the subsequent section showcases a partial excerpt of the resulting output. This query retrieves a list of all employees who are currently assigned to the Finance and Sales departments. Initially, I began by retrieving all data from the employees table. Subsequently, a WHERE clause was employed, utilising the OR operator, to selectively filter employees belonging to the Finance and Sales departments. I utilised the OR operator instead of the AND operator in order to include all employees who are affiliated with either department. The initial condition is department = 'Finance', which serves to filter employees belonging to the Finance department. The second condition pertains to the department field, specifically filtering for employees who belong to the Sales department.
+The initial section of the screenshot displays the query I have executed, while the subsequent section showcases a partial excerpt of the resulting output. This query retrieves a list of all employees who are currently assigned to the Finance and Sales departments. Initially, I began by retrieving all data from the `employees` table. Subsequently, a `WHERE` clause was employed, utilising the `OR` operator, to selectively filter employees belonging to the Finance and Sales departments. I utilised the `OR` operator instead of the `AND` operator in order to include all employees who are affiliated with either department. The initial condition is `department = 'Finance'`, which serves to filter employees belonging to the Finance department. The second condition is `department = 'Sales'`, which filters for employees from the Sales department.
+
 
 Retrieve all employees not in IT
 
@@ -188,11 +189,11 @@ I would like to present the process I followed to develop a SQL query that effec
 ![image](https://github.com/clintonsenaye/ClintonSenaye/assets/57267374/9918f9de-54e4-44e1-9c61-5a7fe2508f46)
 
 
-The initial section of the screenshot displays my query, while the subsequent section showcases a segment of the output. The query retrieves a list of employees who are not currently assigned to the Information Technology department. Initially, I began the process by executing a query to retrieve all the data from the employees table. Subsequently, a WHERE clause was employed, utilising the NOT operator, to effectively filter out employees who are not associated with the specified department.
+The initial section of the screenshot displays my query, while the subsequent section showcases a segment of the output. The query retrieves a list of employees who are not currently assigned to the Information Technology department. Initially, I began the process by executing a query to retrieve all the data from the `employees` table. Subsequently, a `WHERE` clause was employed, utilising the `NOT` operator, to effectively filter out employees who are not associated with the specified department.
 
 Summary
 
-I have implemented filters in SQL queries to retrieve targeted data regarding login attempts and employee machines. I utilised two distinct tables, namely log_in_attempts and employees. I employed the AND, OR, and NOT operators to selectively filter the requisite information for each task. I utilised the LIKE operator along with the percentage sign (%) wildcard to effectively filter and identify patterns.
+I have implemented filters in SQL queries to retrieve targeted data regarding login attempts and employee machines. I utilised two distinct tables, namely `log_in_attempts` and `employees`. I employed the `AND`, `OR`, and `NOT` operators to selectively filter the requisite information for each task. I utilised the `LIKE` operator along with the percentage sign `(%)` wildcard to effectively filter and identify patterns.
 
 <h2>Threats, Assests and Vulnerabilities</h2>
 

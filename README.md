@@ -17,13 +17,15 @@ Below are some of the projects I have undertaken thoughout my cybersecurity jour
 
 Throughout this course, I acquired knowledge regarding the fundamental job duties and essential skills required for professionals working in the cybersecurity industry. I looked at the eight security areas of the Certified Information Systems Security Professional (CISSP), as well as different security frameworks and controls and the confidentiality, integrity, and availability (CIA) triad. I have been acquainted with the standard tools utilized by security analysts to safeguard both individuals and organizations. Finally, I had the opportunity to learn how  to compose a professional statement.
 
-h2>Play It Safe: Manage Security Risks</h2>
+<h2>Play It Safe: Manage Security Risks</h2>
 
 During the course, I acquired an enhanced comprehension of the eight security domains of the Certified Information Systems Security Professional (CISSP), along with distinct security frameworks and controls. I received an introduction to utilizing security tools and conducting audits as a means of safeguarding assets and data. These concepts are widely recognized as fundamental in the cybersecurity industry, and comprehending them is crucial for safeguarding organizations and their stakeholders against potential threats, hazards, and susceptibilities. At the end of the course I got the opportunity to conduct an internal audit for a fictional company; Biotium toys. In this activity I analyzed the organizations audit scope, goals and risk assessment.In conducting the audit: control assessment, I reviewed the list of Botium Toys’ assets, reviewed each control name, reviewed the control types and explanation, marked an "X" next to each control that needs to be implemented and noted the levels of priority (high, medium, and/or low; NA if not applicable)
 
 As part of the internal audit process, I have conducted a compliance checklist. In light of the hypothetical company's situation, I took into account the geographical locations where the company operates and the methods by which they receive payments from their clientele. In addition, I provided an explanation as to why it is imperative for the company to comply with the chosen regulations and standards.
 
 <h4>Project description:</h4>
+
+Please conduct a comprehensive assessment of Botium Toys' cybersecurity programme. The audit should aim to ensure that current business practices are in line with industry standards and best practices. The purpose of the audit is to offer mitigation recommendations for high-risk vulnerabilities identified and to present a comprehensive strategy for enhancing the organisation's security posture. The audit team is required to thoroughly document their findings, develop comprehensive remediation plans, and effectively communicate with all relevant stakeholders.
 
 Botium Toys: Audit scope and goals:
 

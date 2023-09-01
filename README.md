@@ -8,3 +8,11 @@ I am a meticulous cybersecurity professional committed to safeguarding organisat
 
 By leveraging my expertise, your organisation will have a powerful ally in the ongoing fight against cyber threats. I don't just offer security measures; I also provide peace of mind. By implementing my strategic approach, you can effectively prevent potential breaches while also optimising your cybersecurity operations. This will result in an efficient allocation of resources, enabling you to prioritise what truly matters. Let's take the first step towards building a strong digital future. I would like to connect with you to discuss how I can enhance your cybersecurity measures.
 We will work together to create a strong defence system that will protect your organisation's data and assets from any potential threats. Begin your journey to cybersecurity excellence here. 
+
+Below are some of the projects I have undertaken thoughout my cybersecurity journey:
+
+<h1>Cybersecurity Projects:</h1>
+
+<h2>Foundations of Cybersecurity</h2>
+
+Throughout this course, I acquired knowledge regarding the fundamental job duties and essential skills required for professionals working in the cybersecurity industry. I looked at the eight security areas of the Certified Information Systems Security Professional (CISSP), as well as different security frameworks and controls and the confidentiality, integrity, and availability (CIA) triad. I have been acquainted with the standard tools utilized by security analysts to safeguard both individuals and organizations. Finally, I had the opportunity to learn how  to compose a professional statement.

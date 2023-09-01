@@ -135,8 +135,7 @@ A security incident of potential nature transpired outside of regular business h
 
 The provided code exemplifies the implementation of a SQL query designed to filter for unsuccessful login attempts that took place outside of regular business hours.
 
-![image](https://github.com/clintonsenaye/ClintonSenaye/assets/57267374/f43ab72f-8306-4fec-b401-3b827fb6ab5a)
-
+![image](https://github.com/clintonsenaye/ClintonSenaye/assets/57267374/aa00333d-ec0c-4b4e-ae4a-4e081c2329fb)
 
 The initial section of the screenshot depicts the query I have executed, while the subsequent section showcases a partial excerpt of the resulting output. This query is designed to filter and retrieve records of failed login attempts that took place after 18:00. To begin, I initiated the process by retrieving all data from the log_in_attempts table. I utilised a WHERE clause in conjunction with an AND operator to apply filtering criteria to my results. Specifically, I restricted the output to include only login attempts that took place after 18:00 and were deemed unsuccessful. The initial condition is login_time > '18:00', which serves to filter the login attempts that took place after 18:00. The second condition is success = FALSE, which is used to filter and identify the failed login attempts. 
 
@@ -146,8 +145,7 @@ An incident of a suspicious nature took place on May 9, 2022. Please conduct an 
 
 The provided code exemplifies the implementation of a SQL query designed to filter login attempts based on specific dates.
 
-![image](https://github.com/clintonsenaye/ClintonSenaye/assets/57267374/c7801dca-dcf2-4127-b630-c81959e5d318)
-
+![image](https://github.com/clintonsenaye/ClintonSenaye/assets/57267374/44aec36e-c45d-4abe-ad1f-cbb1cdf26a38)
 
 The initial section of the screenshot displays the query I executed, while the subsequent section showcases a partial excerpt of the resulting output. The following query retrieves all login attempts that took place on either May 9th, 2022 or May 8th, 2022. To begin, I initiated the process by executing a query to retrieve all data from the log_in_attempts table. Subsequently, I applied a WHERE clause utilising an OR operator to refine the output of my results, exclusively displaying login attempts that transpired on either May 9th, 2022 or May 8th, 2022. The initial criterion is login_date = '2022-05-09', which serves to filter logins that occurred on May 9, 2022. The second condition pertains to the login_date field, specifically filtering for logins that occurred on May 8, 2022.
 
@@ -157,8 +155,7 @@ Upon conducting an analysis of the organization's login attempt data, it has com
 
 The provided code exemplifies the implementation of a SQL query designed to filter login attempts that have taken place outside the geographical location of Mexico. 
 
-![image](https://github.com/clintonsenaye/ClintonSenaye/assets/57267374/00ac6abe-0485-47e9-aaca-2df8204b372e)
-
+![image](https://github.com/clintonsenaye/ClintonSenaye/assets/57267374/39c65933-c34d-4239-a8d7-cb76f82dfd2c)
 
 The initial section of the screenshot displays the query I have executed, while the subsequent section showcases a partial excerpt of the resulting output. This query retrieves all login attempts that have taken place in countries other than Mexico. To begin, I initiated the process by executing a query to retrieve all data from the log_in_attempts table. Subsequently, a WHERE clause was employed, utilising the NOT operator to selectively filter out countries excluding Mexico. I utilised the LIKE operator with the pattern MEX% to perform the matching operation, as the dataset contains representations of Mexico as both MEX and MEXICO. When the percentage sign (%) is used in conjunction with the LIKE operator, it serves as a wildcard character that can represent any number of unspecified characters. 
 
@@ -166,8 +163,7 @@ Retrieve employees in Marketing
 
 The initial section of the screenshot displays the query I have executed, while the subsequent section showcases a partial excerpt of the resulting output. This query retrieves all login attempts that have taken place in countries other than Mexico. To begin, I initiated the process by executing a query to retrieve all data from the log_in_attempts table. Subsequently, a WHERE clause was employed, utilising the NOT operator to selectively filter out countries excluding Mexico. I utilised the LIKE operator with the pattern MEX% to perform the matching operation, as the dataset contains representations of Mexico as both MEX and MEXICO. When the percentage sign (%) is used in conjunction with the LIKE operator, it serves as a wildcard character that can represent any number of unspecified characters. 
 
-![image](https://github.com/clintonsenaye/ClintonSenaye/assets/57267374/846bbd15-9f0a-4562-ba1e-5adbac5d0650)
-
+![image](https://github.com/clintonsenaye/ClintonSenaye/assets/57267374/b107ec9c-8ab7-4676-9e29-09ee6c8507e0)
 
 The initial section of the screenshot displays the query I executed, while the subsequent section showcases a partial excerpt of the resulting output. This query retrieves a list of all employees who are currently assigned to the Marketing department located in the East building. Initially, I began by retrieving all the data from the employees table. Subsequently, a WHERE clause was employed, utilising the logical operator AND, to effectively filter employees based on their affiliation with the Marketing department and their location within the East building. I utilised the LIKE operator with the pattern "East%" to perform a matching operation. This was done in order to identify data in the office column that corresponds to the East building, along with its specific office number. The initial criterion involves the department = 'Marketing' segment, which serves to narrow down the selection to employees belonging to the Marketing department. The second condition pertains to the office field, specifically using the LIKE operator with the 'East%' pattern. This condition serves to filter employees who are located in the East building.
 
@@ -177,8 +173,7 @@ The machines utilised by employees in the Finance and Sales departments are also
 
 The provided code showcases the implementation of a SQL query designed to filter employee machines based on their department affiliation, specifically targeting employees in the Finance or Sales departments.
 
-![image](https://github.com/clintonsenaye/ClintonSenaye/assets/57267374/591f0caa-c7f9-4016-9011-2b4296d7de18)
-
+![image](https://github.com/clintonsenaye/ClintonSenaye/assets/57267374/7a963aac-8e7f-4f5f-a1a5-0cabf398fcca)
 
 The initial section of the screenshot displays the query I have executed, while the subsequent section showcases a partial excerpt of the resulting output. This query retrieves a list of all employees who are currently assigned to the Finance and Sales departments. Initially, I began by retrieving all data from the employees table. Subsequently, a WHERE clause was employed, utilising the OR operator, to selectively filter employees belonging to the Finance and Sales departments. I utilised the OR operator instead of the AND operator in order to include all employees who are affiliated with either department. The initial condition is department = 'Finance', which serves to filter employees belonging to the Finance department. The second condition pertains to the department field, specifically filtering for employees who belong to the Sales department.
 
@@ -188,8 +183,7 @@ Our team is required to implement an additional security update for employees wh
 
 I would like to present the process I followed to develop a SQL query that effectively filters employee machines based on employees who are not part of the Information Technology department.
 
-![image](https://github.com/clintonsenaye/ClintonSenaye/assets/57267374/dbbb5133-b53f-4de4-88e5-b00565ae7b95)
-
+![image](https://github.com/clintonsenaye/ClintonSenaye/assets/57267374/b68fff31-d890-487f-bc1e-4641252fc100)
 
 The initial section of the screenshot displays my query, while the subsequent section showcases a segment of the output. The query retrieves a list of employees who are not currently assigned to the Information Technology department. Initially, I began the process by executing a query to retrieve all the data from the employees table. Subsequently, a WHERE clause was employed, utilising the NOT operator, to effectively filter out employees who are not associated with the specified department.
 
@@ -320,4 +314,6 @@ I have developed an algorithm that effectively eliminates IP addresses, as speci
 
 [GoogleCybersecurityCertificate_Badge20230823-28-f9wpha.pdf](https://github.com/clintonsenaye/ClintonSenaye/files/12499789/GoogleCybersecurityCertificate_Badge20230823-28-f9wpha.pdf)
 
-<img width="800" alt="Google_Cybersecurity_Certificate" src="https://github.com/clintonsenaye/ClintonSenaye/assets/57267374/94f40ac6-b619-4fc0-b8fb-1f24a85e9b3f">
+<img width="800" alt="Google_Cybersecurity_Certificate" src="https://github.com/clintonsenaye/ClintonSenaye/assets/57267374/95eae11f-f1dd-43f2-9a59-acbe38320f9d">
+
+

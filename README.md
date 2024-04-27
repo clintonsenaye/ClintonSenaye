@@ -25,7 +25,7 @@ As part of the internal audit process, I have conducted a compliance checklist. 
 
 <h4>Project description:</h4>
 
-Please conduct a comprehensive assessment of Botium Toys' cybersecurity programme. The audit should aim to ensure that current business practices are in line with industry standards and best practices. The purpose of the audit is to offer mitigation recommendations for high-risk vulnerabilities identified and to present a comprehensive strategy for enhancing the organisation's security posture. The audit team is required to thoroughly document their findings, develop comprehensive remediation plans, and effectively communicate with all relevant stakeholders.
+During this project, I conducted a comprehensive assessment of Botium Toys' cybersecurity programme. The audit aimed to ensure that current business practices are in line with industry standards and best practices. The purpose of the audit was to offer mitigation recommendations for high-risk vulnerabilities identified and to present a comprehensive strategy for enhancing the organisation's security posture. I was required to thoroughly document findings, develop comprehensive remediation plans, and effectively communicate with all relevant stakeholders.
 
 Botium Toys: Audit scope and goals:
 

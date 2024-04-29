@@ -18,6 +18,7 @@ As a highly skilled AWS Certified Solutions Architect, Associate, and security a
 <h1>☁️ AWS Projects:</h1>
 
 - [Multi-Tier Cloud Migration with Cost Optimization on AWS](https://github.com/clintonsenaye/Multi-Tier-Cloud-Migration-with-Cost-Optimization-on-AWS)
+- [Highly Available and Secure Serverless Web Application](https://github.com/clintonsenaye/Highly-Available-and-Secure-Serverless-Web-Application)
 
 <h1>🏅 Certifications</h1>
 

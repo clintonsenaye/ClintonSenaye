@@ -25,6 +25,8 @@ As a highly skilled AWS Certified Solutions Architect, Associate, and security a
 - [Google Cybersecurity Certificate](https://www.credly.com/badges/e51ee6b4-5af9-4640-80e3-b2ba12c8c5f6/public_url)
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/ba59f111-ba4a-426d-a302-56e7cb449808/public_url)
 - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/54398c2e-cf86-4346-be5d-6a47d6f7debf/public_url)
+- [CompTIA Security + ce Certification](https://www.credly.com/badges/8e754947-af44-4c73-8306-af3fdfaa5d88/public_url)
+
 
 
 

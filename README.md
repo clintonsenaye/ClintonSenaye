@@ -19,6 +19,7 @@ As a highly skilled AWS Certified Solutions Architect, Associate, and security a
 
 - [Multi-Tier Cloud Migration with Cost Optimization on AWS](https://github.com/clintonsenaye/Multi-Tier-Cloud-Migration-with-Cost-Optimization-on-AWS)
 - [Highly Available and Secure Serverless Web Application](https://github.com/clintonsenaye/Highly-Available-and-Secure-Serverless-Web-Application)
+- [AWS Infrastructure as Code with Terraform](https://github.com/clintonsenaye/aws-infra-terraform.git)
 
 <h1>🏅 Certifications</h1>
 

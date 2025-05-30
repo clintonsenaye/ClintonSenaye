@@ -1,6 +1,6 @@
 <h1>👨🏾‍💻 Hi, I'm Clinton!</h1>
 
-<h3>I am a self taught security analyst and aws certified solutions architect breaking into tech.</h3>
+<h3>I am a self taught cloud security engineer .</h3>
 
 <h2>🏆 Professional Statement: </h2>
 

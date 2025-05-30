@@ -80,7 +80,7 @@ As a highly skilled AWS Certified Solutions Architect - Associate, and CompTIA S
 - Advocate for ethical data protection and privacy
 
 ## 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/clintonsenaye/) (Add your LinkedIn URL)
+- [LinkedIn](https://www.linkedin.com/in/clintonsenaye/)
 - [GitHub](https://github.com/clintonsenaye)
 
 ---
